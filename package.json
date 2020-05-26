@@ -11,8 +11,11 @@
   },
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@angular-devkit/build-optimizer": "^0.802.2",
     "@angular-devkit/build-webpack": "^0.802.2",
+=======
+>>>>>>> 43694df... initial commit
     "@angular/animations": "~8.2.0",
     "@angular/common": "~8.2.0",
     "@angular/compiler": "~8.2.0",
@@ -26,6 +29,7 @@
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@angular-devkit/build-angular": "^0.802.2",
     "@angular/cli": "~8.2.2",
     "@angular/compiler-cli": "~8.2.0",
@@ -33,6 +37,15 @@
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
+=======
+    "@angular-devkit/build-angular": "~0.802.2",
+    "@angular/cli": "~8.2.2",
+    "@angular/compiler-cli": "~8.2.0",
+    "@angular/language-service": "~8.2.0",
+    "@types/node": "~8.9.4",
+    "@types/jasmine": "~3.3.8",
+    "@types/jasminewd2": "~2.0.3",
+>>>>>>> 43694df... initial commit
     "codelyzer": "^5.0.0",
     "jasmine-core": "~3.4.0",
     "jasmine-spec-reporter": "~4.2.1",
